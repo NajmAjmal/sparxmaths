@@ -1,16 +1,18 @@
-# Contributing to Sintco Sparxmaths Solver
+# Contributing to SparxSolver
 
-Thank you for considering contributing to the Sintco Sparxmaths Solver project! We appreciate your interest in making our browser addon even better. This document outlines the guidelines for contributing to the project and provides information on how you can get involved.
+Thank you for considering contributing to the SparzSolver! We appreciate your interest in making our browser addon even better. This document outlines the guidelines for contributing to the project and provides information on how you can get involved.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Contributing Guidelines](#contributing-guidelines)
-- [Bug Reports](#bug-reports)
-- [Feature Requests](#feature-requests)
-- [Code Style](#code-style)
-- [Submitting a Pull Request](#submitting-a-pull-request)
-- [License](#license)
+- [Contributing to SparxSolver](#contributing-to-sparxsolver)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [Contributing Guidelines](#contributing-guidelines)
+  - [Bug Reports](#bug-reports)
+  - [Feature Requests](#feature-requests)
+  - [Code Style](#code-style)
+  - [Submitting a Pull Request](#submitting-a-pull-request)
+  - [License](#license)
 
 ## Getting Started
 

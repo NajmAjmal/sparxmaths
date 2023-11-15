@@ -9,8 +9,8 @@ Incomplete and generally out of date copyright list::
         All Rights Reserved.
 
 This program is distributed under the MIT Licence. See the file LICENSE.TXT 
-for the conditions under which this software is made available. Sintco 
-Sparxmaths Solver also contains code from other sources. See the 
+for the conditions under which this software is made available.  
+SparxSolver also contains code from other sources. See the 
 Acknowledgements section below, and the individualsource files, for details 
 of the conditions under which they are made available.
 

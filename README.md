@@ -3,6 +3,8 @@
 > This repo is now archived, no further updates will be made.
 
 Welcome to **SparxSolver**, a Free browser extension designed to assist you with your sparx maths homework. Before using this extension, please read the full **terms and conditions** [**here**](https://raw.githubusercontent.com/SintcoLTD/CDN/main/chrome-extension/sparxmaths/TC.md).
+
+
  **✩ *If you like this project, consider giving it a star!* ✩**
 
 ## Table of Contents
@@ -13,7 +15,7 @@ Welcome to **SparxSolver**, a Free browser extension designed to assist you with
   - [✨ Features](#-features)
   - [Installation](#installation)
   - [Statistics](#statistics)
-      - [Statistics Starting from: 14/10/2023](#statistics-starting-from-14102023)
+      - [Statistics Starting from: 15/11/2023](#statistics-starting-from-15112023)
   - [License](#license)
   - [👏 Acknowledgements](#-acknowledgements)
 
@@ -63,16 +65,16 @@ These instructions explain how to Install SparxSolver browser extension on your 
 
 7. **Verify Installation:**
    - The extension should now appear in the Extensions tab.
+   - Refresh the Sparxmaths website to see the extension in action. (If website is already open)
 
-> **Note:** The extension should now appear in the Extensions tab, and you can use it as you normally would.
 
 ## Statistics
 
-#### Statistics Starting from: 14/10/2023
+#### Statistics Starting from: 15/11/2023
 
-[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSintcoLTD%2FSparxSolver&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
+[![Views Today/Total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNajmAjmal%2Fsparxmaths&count_bg=%2356F1F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](/)
 
-![Star Counter](https://img.shields.io/github/stars/c0lide/SparxSolver.svg?style=social)
+![Star Counter](https://img.shields.io/github/stars/NajmAjmal/sparxmaths.svg?style=social)
 
 
 ## License
